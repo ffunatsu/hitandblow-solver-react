@@ -1,6 +1,6 @@
 # Hit and Blow (Mastermind) Solver
 
-https://funatsufumiya.github.io/hitandblow-solver-react/
+https://ffunatsu.github.io/hitandblow-solver-react/
 
 ![screenshot](screenshot.jpg)
 
